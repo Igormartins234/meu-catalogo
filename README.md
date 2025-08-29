@@ -1,4 +1,4 @@
-# 🎬 Meu Catálogo de Filmes Essenciais
+# 🎬 Catálogo de Filmes
 
 Este é um aplicativo de catálogo de filmes, desenvolvido com **React Native**, **Expo** e **TypeScript**. Ele apresenta uma lista de filmes com pôsteres, sinopse, título, subtítulo e ano de lançamento.
 
